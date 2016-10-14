@@ -1,0 +1,29 @@
+<?php
+
+/* $a=5;$b=10;
+{
+  global $a;
+  $b =$a+$b;
+  function sum()
+  echo $b;
+}
+sum(); */
+
+$int = 87654321;
+echo $int . "\n";
+
+
+echo $output = substr($int, 0, 2) . "\n";
+
+var_dump($output) . "\n";
+
+echo $int{0} . "\n";
+echo $int{1} . "\n";
+echo $int{2} . "\n";
+echo $int{3} . "\n";
+echo $int{4} . "\n";
+echo $int{5} . "\n";
+echo $int{6} . "\n";
+
+
+?>
